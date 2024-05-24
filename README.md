@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning progamming fundamentals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: He/She
+- 😄 Pronouns: I know them
 - ⚡ Fun fact: My pet name is Void and I love Void
 
 <!---
